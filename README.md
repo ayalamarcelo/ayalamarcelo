@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 There!</h1>
+<h1 align="center">Hi, 👋 There!</h1>
 
 ###
 
-<p align="left">I'm Marcelo, a Fullstack developer with a focus on Backend development. My experience revolves around projects utilizing Node.js, where I work with both relational and non-relational databases. Proficient in Git, I've also explored cybersecurity out of curiosity.<br><br>I consider myself a creative, decisive, and proactive individual with solid interpersonal skills.</p>
+<p align="left">I'm Marcelo, a Backend-oriented Fullstack developer. I've made projects utilizing Node.js, where I work with both relational and non-relational databases. Being proficient in Git, I've also explored cybersecurity out of curiosity.<br><br>I consider myself a creative, decisive, and proactive individual with solid interpersonal skills.</p>
 
 ###
 
