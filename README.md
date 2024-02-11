@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">🫛 I'm currently learning</h2>
+<h2 align="left">🌱 I'm currently learning</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
