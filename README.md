@@ -3,7 +3,7 @@
 <p><em>Software Developer <a href="https://www.ifts11.com">IFTS N°11</a></p>
 
 [![Linkedin: ayalamarceloruben](https://img.shields.io/badge/-ayalamarceloruben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayalamarceloruben/)](https://www.linkedin.com/in/ayalamarceloruben/)
-[![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarceloruben?label=follow&style=social)](https://github.com/ayalamarcelo)
+[![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://github.com/ayalamarcelo)
 
 <p align="left">I'm Marcelo, a Backend-oriented Fullstack developer. I've made projects utilizing Node.js, where I work with both relational and non-relational databases. Being proficient in Git, I've also explored cybersecurity out of curiosity.<br><br>I consider myself a creative, decisive, and proactive individual with solid interpersonal skills.</p>
 
