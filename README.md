@@ -10,12 +10,16 @@
 ### <img src="https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311" width="50"> A little more about me:
 
 ```javascript
-const marcelo = {
+const profile = {
+  name: "Marcelo",
+  surname: "Ayala",
   code: ["Javascript", "HTML", "CSS", "Java"],
   tools: ["React", "Redux", "Node", "Express"],
-  databases: ["Mongo", "MySQL", "SQL Server"]
+  databases: ["Mongo", "MySQL", "SQL Server"],
   architecture: ["microservices"],
-  currentlyLearning:["C#"],
+  currentlyLearning: ["C#"]
 };
+
+console.log("Hello World!");
 
 ```
