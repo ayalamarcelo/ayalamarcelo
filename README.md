@@ -7,7 +7,7 @@
 
 <p align="left">I'm Marcelo, a Backend-oriented Fullstack developer. I've made projects utilizing Node.js, where I work with both relational and non-relational databases. Being proficient in Git, I've also explored cybersecurity out of curiosity.<br><br>I consider myself a creative, decisive, and proactive individual with solid interpersonal skills.</p>
 
-### <img src="https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311" width="50"> A little more about me:
+### A little more about me:
 
 ```javascript
 const profile = {
