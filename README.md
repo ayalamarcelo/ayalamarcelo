@@ -20,7 +20,7 @@ const profile = {
   currentlyLearning: ["C#"]
 };
 
-console.log("Hello World!");
+console.log("Thank you for viewing my profile!");
 
 ```
 ###
