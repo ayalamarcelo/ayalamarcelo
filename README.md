@@ -7,6 +7,7 @@
 
 <p align="left">I'm Marcelo, a Backend-oriented Fullstack developer. I've made projects utilizing Node.js, where I work with both relational and non-relational databases. Being proficient in Git, I've also explored cybersecurity out of curiosity.<br><br>I consider myself a creative, decisive, and proactive individual with solid interpersonal skills.</p>
 
+<!--
 ### A little more about me:
 
 ```javascript
@@ -23,11 +24,13 @@ const profile = {
 console.log("Thank you for viewing my profile!");
 
 ```
-/*
+
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayalamarcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayalamarcelo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
 ###
-*/
+-->
