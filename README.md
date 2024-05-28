@@ -7,7 +7,6 @@
 
 <p align="left">I'm Marcelo, a Software Developer. I've developed projects using Node.js, where I work with both relational and non-relational databases. I'm proficient in Git. I consider myself a creative, decisive, and proactive individual with strong interpersonal skills.</p>
 
-<!--
 <p>A little more about me:</p>
 
 ```javascript
@@ -32,4 +31,3 @@ console.log("Thank you for viewing my profile!");
 </div>
 
 ###
--->
