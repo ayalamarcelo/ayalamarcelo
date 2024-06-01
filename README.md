@@ -1,5 +1,4 @@
-<img align='center' src='https://images-cdn.exchange.art/QbkfUwbhyP_iXnmSy8EwHkAXeejFB6MRb1rTRGH9VDk?ext=fastly&optimize=medium' width='1200'>
-<h1 align="center"> Hi,👋 I'm Marcelo! </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=AEBAC6&center=true&vCenter=true&random=false&width=1200&separator=%3C&lines=Console.WriteLine(%22Hi%2C%F0%9F%91%8B+I'm+Marcelo!+%22);" alt="Typing SVG" /></a></h1>
 <img align='right' src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="190">
 <p>Software Developer <a href="https://www.ifts11.com">IFTS N°11</a></p>
 
