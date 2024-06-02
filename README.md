@@ -20,8 +20,6 @@ const profile = {
   currentlyLearning: ["C#"]
 };
 ```
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4665F&center=true&vCenter=true&random=false&width=1200&separator=%3C&lines=console.log(%22Thank+you+for+viewing+my+profile!%22);" alt="Typing SVG" /></a>
 <!--
 ###
 
