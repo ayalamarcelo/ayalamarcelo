@@ -1,5 +1,4 @@
 <h1 align="center">Hi,👋 I'm Marcelo </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4665F&center=true&vCenter=true&random=false&width=1200&separator=%3C&lines=console.log(%22Loading+data...%22);" alt="Typing SVG" /></a>
 <img align='right' src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="190">
 <p>Software Developer <a href="https://www.ifts11.com">IFTS N°11</a></p>
 
@@ -20,10 +19,9 @@ const profile = {
   architecture: ["microservices"],
   currentlyLearning: ["C#"]
 };
-
-console.log("Thank you for viewing my profile!");
-
 ```
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4665F&center=true&vCenter=true&random=false&width=1200&separator=%3C&lines=console.log(%22Thank+you+for+viewing+my+profile!%22);" alt="Typing SVG" /></a>
 <!--
 ###
 
