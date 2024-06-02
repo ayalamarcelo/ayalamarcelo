@@ -13,10 +13,10 @@
 const profile = {
   name: "Marcelo",
   surname: "Ayala",
-  code: ["Javascript", "HTML", "CSS", "Java"],
-  tools: ["React", "Redux", "Node", "Express"],
-  databases: ["Mongo", "MySQL", "SQL Server"],
-  architecture: ["microservices"],
+  code: ["HTML", "CSS", "Javascript"],
+  tools: ["Node", "Express"],
+  databases: ["Mongo", "SQL Server"],
+  architecture: ["Microservices"],
   currentlyLearning: ["C#"]
 };
 ```
