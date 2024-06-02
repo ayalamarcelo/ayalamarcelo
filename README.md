@@ -1,5 +1,5 @@
-<h1 align="center">Hi,👋 I'm Marcelo!</h1>
-<img align='right' src='https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966' width="190">
+<h1 align="center">Hi, I'm Marcelo 👋🧑‍💻</h1>
+<img align='right' src='https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966' width="150">
 <p>Software Developer <a href="https://www.ifts11.com">IFTS N°11</a></p>
 
 [![Linkedin: ayalamarceloruben](https://img.shields.io/badge/-ayalamarceloruben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayalamarceloruben/)](https://www.linkedin.com/in/ayalamarceloruben/)
