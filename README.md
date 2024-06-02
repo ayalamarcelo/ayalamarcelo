@@ -5,7 +5,7 @@
 [![Linkedin: ayalamarceloruben](https://img.shields.io/badge/-ayalamarceloruben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayalamarceloruben/)](https://www.linkedin.com/in/ayalamarceloruben/)
 [![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://github.com/ayalamarcelo)
 
-<p align="left">I'm Marcelo, a Software Developer. I've developed projects using Node.js, where I work with both relational and non-relational databases. I'm proficient in Git. I consider myself a creative, decisive, and proactive individual with strong interpersonal skills.</p>
+<p align="left">I'm Marcelo, I've developed projects, where I work with both relational and non-relational databases. I'm proficient in Git. I consider myself a creative, decisive, and proactive individual with strong interpersonal skills.</p>
 
 <p>A Little More About Me</p>
 
