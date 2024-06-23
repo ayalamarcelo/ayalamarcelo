@@ -15,9 +15,9 @@ const profile = {
   surname: "Ayala",
   code: ["HTML", "CSS", "Javascript"],
   tools: ["Node", "Express"],
-  databases: ["Mongo", "SQL Server"],
+  databases: ["Mongo", "SQL Server", "MySQL"],
   architecture: ["Microservices"],
-  currentlyLearning: ["C#"]
+  currentlyLearning: ["C#", "Java"]
 };
 ```
 <div align="center">
