@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Marcelo 👋</h1>
 <!--<img align='right' src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="180">-->
-<p>Software Developer <a href="https://www.ifts11.com">IFTS N°11</a></p>
+<p>Software Developer</p>
 
 [![Linkedin: ayalamarceloruben](https://img.shields.io/badge/-ayalamarceloruben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayalamarceloruben/)](https://www.linkedin.com/in/ayalamarceloruben/)
 [![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://github.com/ayalamarcelo)
 
 <p align="left">I'm Marcelo, I've developed projects, where I work with both relational and non-relational databases. I'm proficient in Git. I consider myself a creative, decisive, and proactive individual with strong interpersonal skills.</p>
+
+<p>Education</p>
+
+<p><a href="https://www.ifts11.com">IFTS N°11</a></p>
 
 <p>A Little More About Me</p>
 
