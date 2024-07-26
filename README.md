@@ -22,7 +22,7 @@ const profile = {
   surname: "Ayala",
   code: ["HTML", "CSS", "Javascript"],
   tools: ["Node", "Express"],
-  databases: ["Mongo", "SQL Server", "MySQL"],
+  databases: ["Mongo", "Redis", "SQL Server", "MySQL"],
   architecture: ["Microservices"],
   currentlyLearning: ["C#", "Java"]
 };
