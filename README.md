@@ -5,7 +5,9 @@
 [![Linkedin: ayalamarceloruben](https://img.shields.io/badge/-ayalamarceloruben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayalamarceloruben/)](https://www.linkedin.com/in/ayalamarceloruben/)
 [![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://github.com/ayalamarcelo)
 
-<p align="left">I'm Marcelo, I've developed projects, where I work with both relational and non-relational databases. I'm proficient in Git. I consider myself a creative, decisive, and proactive individual with strong interpersonal skills.</p>
+<p align="left">I'm Marcelo, a Full Stack Developer focused on back-end development, with experience in projects using Node.js and Java, as well as working with both relational (MySQL) and non-relational (Redis, Mongo) databases. I am proficient in Git.
+
+I am seeking a challenging and innovative environment where I can contribute my knowledge, continue learning, and collaborate with a team to create real solutions. I consider myself a creative, solution-oriented, and proactive individual with strong interpersonal skills.</p>
 
 <p>Education</p>
 
