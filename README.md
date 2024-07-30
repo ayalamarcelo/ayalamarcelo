@@ -28,7 +28,7 @@ const profile = {
 };
 ```
 
-<p align="center"><a href="https://github.com/ayalamarcelo/portfolio">👉🏻 Visit my portfolio</a></p>
+<p align="center"><a href="https://github.com/ayalamarcelo/portfolio">Visit my portfolio</a></p>
 
 <!--
 <p>My Stats</p>
