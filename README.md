@@ -12,7 +12,7 @@ I am seeking a challenging and innovative environment where I can contribute my 
 
 #### <p>Education</p>
 
-<p><a href="https://www.ifts11.com">IFTS N°11</a></p>
+<p><a href="https://www.ifts11.com" target="_blank">IFTS N°11</a></p>
 
 #### <p>A Little More About Me</p>
 
