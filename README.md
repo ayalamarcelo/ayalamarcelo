@@ -12,7 +12,7 @@ I am seeking a challenging and innovative environment where I can contribute my 
 
 #### <p>Education</p>
 
-<p><a href="https://www.ifts11.com" target="_blank">IFTS N°11</a></p>
+<p><a href="https://www.ifts11.com">IFTS N°11</a></p>
 
 #### <p>A Little More About Me</p>
 
@@ -28,7 +28,7 @@ const profile = {
 };
 ```
 
-<p align="center"><a href="https://ayalamarcelo.github.io/portfolio/">Visit my portfolio</a></p>
+<p align="center"><a href="https://ayalamarcelo.github.io/portfolio/" target="_blank">Visit my portfolio</a></p>
 
 <!--
 <p>My Stats</p>
