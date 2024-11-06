@@ -20,7 +20,7 @@ const profile = {
   name: "Marcelo",
   surname: "Ayala",
   code: ["HTML", "CSS", "Javascript"],
-  tools: ["Node", "Express", "Vue"],
+  tools: ["Node", "Express", "Vue", "Git"],
   databases: ["Mongo", "Redis", "SQL Server", "MySQL"],
   architecture: ["Microservices"],
   currentlyLearning: ["C#", "Java"]
