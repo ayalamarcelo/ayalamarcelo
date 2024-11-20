@@ -19,11 +19,11 @@ I am seeking a challenging and innovative environment where I can contribute my 
 const profile = {
   name: "Marcelo",
   surname: "Ayala",
-  code: ["HTML", "CSS", "Javascript"],
+  code: ["HTML", "CSS", "Javascript", "C#", "Java"],
   tools: ["Node", "Express", "Vue", "Git"],
   databases: ["Mongo", "Redis", "SQL Server", "MySQL"],
   architecture: ["Microservices"],
-  currentlyLearning: ["C#", "Java"]
+  currentlyLearning: ["Salesforce Developer (Apex, Visualforce, Lightning)"]
 };
 ```
 
