@@ -26,7 +26,6 @@ const profile = {
   currentlyLearning: ["Salesforce Developer (Apex, Visualforce, Lightning)"]
 };
 ```
-
 <p align="center"><a href="https://ayalamarcelo.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Visit my portfolio</a></p>
 
 <p>My Stats</p>
