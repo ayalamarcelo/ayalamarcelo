@@ -3,6 +3,9 @@
 
 ```js
 console.log("Hello, there 👋!");
+console.log("I'm a software developer with training in Fullstack and UX design.
+             I am currently exploring the Salesforce development field."
+);
 ```
 
 ```js
