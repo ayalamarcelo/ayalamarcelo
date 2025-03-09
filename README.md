@@ -21,7 +21,6 @@ const profile = {
   },
   education: "[IFTS N° 11](https://www.ifts11.com.ar) 🎓"
 };
-```
-```js
+
 console.log("Thank you for visiting my profile!");
 ```
