@@ -14,7 +14,7 @@ const profile = {
   surname: "Ayala",
   skills: {
     technologies: "💻" + ["HTML", "CSS", "JavaScript", "C#", "Java"].join(", "),
-    tools: "🛠️" + ["Node.js", "Express", "Vue", "Git"].join(", "),
+    tools: "🛠️" + ["Node.js", "Express", "Vue", "Git", "Bash"].join(", "),
     databases: "🗃️" + ["MongoDB", "Redis", "SQL Server", "MySQL", "PostgreSQL"].join(", "),
     architecture: "🏗️" + ["Microservices"].join(", "),
     learning: "📚" + ["Salesforce Developer (Apex, Visualforce, Lightning)"].join(", "),
