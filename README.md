@@ -1,5 +1,6 @@
-[![Linkedin: ayalamarceloruben](https://img.shields.io/badge/-ayalamarceloruben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayalamarceloruben/)](https://www.linkedin.com/in/ayalamarceloruben/)
-[![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://github.com/ayalamarcelo)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ayalamarceloruben/)
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=ayalamarcelo)
+[![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://discord.com/ayalamarcelo)
 
 ```js
 console.log("Hello, there 👋!");
@@ -21,5 +22,3 @@ const profile = {
   education: "[IFTS N° 11](https://www.ifts11.com.ar) 🎓"
 };
 ```
-
-<img src="https://komarev.com/ghpvc/?username=ayalamarcelo&style=for-the-badge&color=808fff" width="180px" height="29.4px"></p>
