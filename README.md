@@ -21,3 +21,5 @@ const profile = {
   education: "[IFTS N° 11](https://www.ifts11.com.ar) 🎓"
 };
 ```
+
+<img src="https://komarev.com/ghpvc/?username=ayalamarcelo&style=for-the-badge&color=808fff" width="180px" height="29.4px"></p>
