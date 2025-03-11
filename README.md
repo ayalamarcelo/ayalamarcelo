@@ -13,12 +13,13 @@ const profile = {
   name: "Marcelo",
   surname: "Ayala",
   skills: {
-    technologies: "💻" + ["HTML", "CSS", "JavaScript", "C#", "Java"].join(", "),
-    tools: "🛠️" + ["Node.js", "Express", "Vue", "Git", "Bash", "cmd"].join(", "),
-    databases: "🗃️" + ["MongoDB", "Redis", "SQL Server", "MySQL", "PostgreSQL"].join(", "),
-    architecture: "🏗️" + ["Microservices"].join(", "),
-    learning: "📚" + ["Salesforce Developer (Apex, Visualforce, Lightning)"].join(", "),
+    technologies: "💻 " + ["HTML", "CSS", "JavaScript", "C#", "Java"].join(", "),
+    frameworks: "📦 " + ["Node.js", "Express", "Vue"].join(", "),
+    tools: "🛠️ " + ["Git", "Bash", "CMD"].join(", "),
+    databases: "🗃️ " + ["MongoDB", "Redis", "SQL Server", "MySQL", "PostgreSQL"].join(", "),
+    architecture: "🏗️ " + ["Microservices"].join(", "),
+    learning: "📚 " + ["Salesforce Developer (Apex, Visualforce, Lightning)"].join(", "),
   },
-  education: "[IFTS N° 11](https://www.ifts11.com.ar) -🎓"
+  education: "🎓 [IFTS N° 11](https://www.ifts11.com.ar)"
 };
 ```
