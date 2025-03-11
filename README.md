@@ -20,6 +20,7 @@ const profile = {
     architecture: "🏗️ " + ["Microservices"].join(", "),
     learning: "📚 " + ["Salesforce Developer (Apex, Visualforce, Lightning)"].join(", "),
   },
-  education: "🎓 [IFTS N° 11](https://www.ifts11.com.ar)"
+  education: "[IFTS N° 11](https://www.ifts11.com.ar) 🎓"
 };
+
 ```
