@@ -18,7 +18,7 @@ const profile = {
     tools: "🛠️ " + ["Git", "Bash", "CMD"].join(", "),
     databases: "🗃️ " + ["MongoDB", "Redis", "SQL Server", "MySQL", "PostgreSQL"].join(", "),
     architecture: "🏗️ " + ["Microservices"].join(", "),
-    learning: "📚 " + ["Salesforce Developer (Apex, Visualforce, Lightning, Docker)"].join(", "),
+    learning: "📚 " + ["Salesforce Developer (Apex, Visualforce, Lightning, Docker.io)"].join(", "),
   },
   education: "[IFTS N° 11](https://www.ifts11.com.ar) 🎓"
 };
