@@ -1,5 +1,4 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ayalamarceloruben/)
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=ayalamarcelo)
 [![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://discord.com/ayalamarcelo)
 
 ```js
