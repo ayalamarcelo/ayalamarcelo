@@ -1,5 +1,5 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ayalamarceloruben/)
-[![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://discord.com/ayalamarcelo)
+[![GitHub ayalamarcelo](https://img.shields.io/github/followers/ayalamarcelo?label=follow&style=social)](https://github.com/ayalamarcelo)
 
 ```js
 console.log("Hello, there 👋!");
