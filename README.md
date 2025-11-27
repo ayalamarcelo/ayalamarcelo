@@ -1,23 +1,25 @@
-```bash
+```sh
 $ echo "Hello, there 👋!"
 Hello, there 👋!
 ```
 
-```bash
+```sh
 $ echo "I'm a software developer with training in Fullstack and UX design."
 I am a software developer with training in Fullstack and UX design.
-
+```
+```sh
 $ echo "I am currently exploring the Salesforce development field."
 I am currently exploring the Salesforce development field.
 ```
 
-```bash
+```sh
 $ cat profile.txt
 name: Marcelo
 surname: Ayala
 ```
 
 ```ruby
+$ cat skills
 skills:
   technologies: 💻 HTML, CSS, JavaScript, C#, Java
   frameworks:   📦 Node.js, Express, Vue
