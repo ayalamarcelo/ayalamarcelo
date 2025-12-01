@@ -1,4 +1,8 @@
 ```sh
+#!/bin/bash
+```
+
+```sh
 $ echo "Hello, there 👋!"
 Hello, there 👋!
 ```
