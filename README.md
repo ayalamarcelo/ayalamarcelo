@@ -22,11 +22,11 @@ surname: Ayala
 $ cat skills
 skills:
   technologies: 💻 HTML, CSS, JavaScript, C#, Java
-  frameworks:   📦 Node.js, Express, Reactjs
-  tools:        🛠️ Git(Version control), Bash, Zsh, Fish, CMD, PS, Docker(Containers)
-  databases:    🗃️ MongoDB, Redis, SQL Server, MySQL, PostgreSQL
-  architecture: 🏗️ Microservices
-  learning:     📚 Salesforce Developer (Apex, Visualforce, Lightning)
+  frameworks/ libraries: 📦 Node.js, Express, Reactjs
+  tools/ devOps: 🛠️ Git(Version control), Bash, Zsh, Fish, CMD, PS, Docker(Containers)
+  databases: 🗃️ MongoDB, Redis, SQL Server, MySQL, PostgreSQL
+  architecture/ patterns: 🏗️ Microservices
+  learning/ upcoming skills: 📚 Salesforce Developer (Apex, Visualforce, Lightning)
 
 education: IFTS N° 11 🎓
 ```
