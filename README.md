@@ -4,8 +4,8 @@ Hello, there 👋!
 ```
 
 ```sh
-$ echo "I'm a software developer with training in Fullstack and UX design."
-I am a software developer with training in Fullstack and UX design.
+$ echo "I'm a software developer with training in Fullstack."
+I am a software developer with training in Fullstack.
 ```
 ```sh
 $ echo "I am currently exploring the Salesforce development field."
@@ -22,11 +22,11 @@ surname: Ayala
 $ cat skills
 skills:
   technologies: 💻 HTML, CSS, JavaScript, C#, Java
-  frameworks:   📦 Node.js, Express, Vue
-  tools:        🛠️ Git, Bash, CMD
+  frameworks:   📦 Node.js, Express, Reactjs
+  tools:        🛠️ Git(Version control), Bash, Zsh, Fish, CMD, PS, Docker(Containers)
   databases:    🗃️ MongoDB, Redis, SQL Server, MySQL, PostgreSQL
   architecture: 🏗️ Microservices
-  learning:     📚 Salesforce Developer (Apex, Visualforce, Lightning, Docker)
+  learning:     📚 Salesforce Developer (Apex, Visualforce, Lightning)
 
 education: IFTS N° 11 🎓
 ```
