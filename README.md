@@ -1,36 +1,35 @@
-```sh
+```bash
 #!/bin/bash
-```
 
-```sh
-$ echo "Hello, there 👋!"
-Hello, there 👋!
+echo "Hello, there! 👋"
+echo "I'm Marcelo, a software developer with fullstack training."
+echo "Currently exploring the Salesforce development field. ⚡️"
 ```
-
-```sh
-$ echo "I'm a software developer with training in Fullstack."
-I am a software developer with training in Fullstack.
+```bash
+# Profile
+cat <<EOT
+---------------------------
+PROFILE
+---------------------------
+Name: Marcelo
+Surname: Ayala
 ```
-```sh
-$ echo "I am currently exploring the Salesforce development field."
-I am currently exploring the Salesforce development field.
+```bash
+Skills:
+  💻 Technologies: HTML, CSS, JavaScript, C#, Java
+  📦 Frameworks/Libraries: Node.js, Express, React.js
+  🛠️ Tools/DevOps: Git, Bash, Zsh, Fish, CMD, PS, Docker
+  🗃️ Databases: MongoDB, Redis, SQL Server, MySQL, PostgreSQL
+  🏗️ Architecture/Patterns: Microservices
+  📚 Learning/Upcoming: Salesforce Developer (Apex, Visualforce, Lightning)
 ```
+```bash
+Education:
+  🎓 IFTS N° 11
 
-```sh
-$ cat profile.txt
-name: Marcelo
-surname: Ayala
-```
+echo ""
+echo "💡 Fun fact: I love making scripts that make life easier and more fun!"
+echo "🚀 Run 'skills.sh' to see my coding powers in action 😉"
 
-```ruby
-$ cat skills
-skills:
-  technologies: 💻 HTML, CSS, JavaScript, C#, Java
-  frameworks/ libraries: 📦 Node.js, Express, Reactjs
-  tools/ devOps: 🛠️ Git(Version control), Bash, Zsh, Fish, CMD, PS, Docker(Containers)
-  databases: 🗃️ MongoDB, Redis, SQL Server, MySQL, PostgreSQL
-  architecture/ patterns: 🏗️ Microservices
-  learning/ upcoming skills: 📚 Salesforce Developer (Apex, Visualforce, Lightning)
-
-education: IFTS N° 11 🎓
+EOT
 ```
