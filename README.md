@@ -8,13 +8,6 @@ echo "Currently exploring the Salesforce development field. ⚡️"
 ```bash
 # Profile
 cat <<EOT
----------------------------
-PROFILE
----------------------------
-Name: Marcelo
-Surname: Ayala
-```
-```bash
 Skills:
   💻 Technologies: HTML, CSS, JavaScript, C#, Java
   📦 Frameworks/Libraries: Node.js, Express, React.js
@@ -22,8 +15,7 @@ Skills:
   🗃️ Databases: MongoDB, Redis, SQL Server, MySQL, PostgreSQL
   🏗️ Architecture/Patterns: Microservices
   📚 Learning/Upcoming: Salesforce Developer (Apex, Visualforce, Lightning)
-```
-```bash
+
 Education:
   🎓 IFTS N° 11
 
