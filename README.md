@@ -8,13 +8,17 @@ echo "Currently exploring the Salesforce development field. ⚡️"
 ```bash
 # Profile
 cat <<EOT
+
 Skills:
-  💻 Technologies: HTML, CSS, JavaScript, C#, Java
-  📦 Frameworks/Libraries: Node.js, Express, React.js
-  🛠️ Tools/DevOps: Git, Bash, Zsh, Fish, CMD, PS, Docker
+  💻 Languages: HTML, CSS, JavaScript, C#, Java
+  📦 Runtimes / Frameworks / Libraries:
+         - Runtime: Node.js
+         - Frameworks: Express
+         - Libraries: React.js
+  🛠️ Tools / DevOps: Git, Bash, Zsh, Fish, CMD, PowerShell, Docker
   🗃️ Databases: MongoDB, Redis, SQL Server, MySQL, PostgreSQL
-  🏗️ Architecture/Patterns: Microservices
-  📚 Learning/Upcoming: Salesforce Developer (Apex, Visualforce, Lightning)
+  🏗️ Architecture / Patterns: Microservices
+  📚 Learning / Upcoming: Salesforce Developer (Apex, Visualforce, Lightning)
 
 Education:
   🎓 IFTS N° 11
