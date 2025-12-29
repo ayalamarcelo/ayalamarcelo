@@ -3,7 +3,7 @@
 
 echo "Hello, there! 👋"
 echo "I'm Marcelo, a software developer with fullstack training."
-echo "Currently exploring backend development. ⚡️"
+echo "Currently exploring salesforce development. ⚡️"
 ```
 ```bash
 # Profile
