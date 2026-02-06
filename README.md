@@ -9,7 +9,7 @@ echo "I'm Marcelo, a software developer with fullstack training."
 echo "Currently exploring Salesforce development. ⚡️"
 ```
 ```bash
-cat << 'EOT'
+cat << EOT
 Skills:
   💻 Languages: Java, C#, JavaScript, Apex (Salesforce)
         - 🎨 Markup/Styles: HTML, CSS
@@ -21,16 +21,9 @@ Skills:
   📚 Learning/Upcoming: TypeScript (Node.js Backend), Bash Scripting
 
 Education: 🎓 IFTS N° 11
+
 EOT
 
 echo ""
 echo "Thanks for visiting my profile! 👋"
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayalamarcelo/ayalamarcelo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayalamarcelo/ayalamarcelo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayalamarcelo/ayalamarcelo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
