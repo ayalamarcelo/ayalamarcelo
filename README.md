@@ -15,10 +15,13 @@ Skills:
         - 🎨 Markup/Styles: HTML, CSS
   📦 Backend: Node.js (Express.js, TypeScript), Java (Spring Boot), C# (.NET)
   🎨 Frontend: React.js, Vue.js
+  📱 Mobile: Ionic Framework
+  ☁️ Salesforce Ecosystem: Apex Triggers/Controllers, SOQL, SOSL
+        - LWC (Lightning Web Components), Aura Components
   🛠️ Tools/DevOps: Git, Bash, Zsh, Fish, CMD, PowerShell, Docker
   🗃️ Databases: MongoDB, SQL Server, MySQL, PostgreSQL
   🏗️ Architecture/Patterns: RESTful APIs, Microservices
-  📚 Learning/Upcoming: TypeScript (Node.js Backend), Bash Scripting
+  📚 Learning/Upcoming: TypeScript, Angular
 
 Education: 🎓 IFTS N° 11
 
