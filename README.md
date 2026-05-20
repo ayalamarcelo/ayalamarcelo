@@ -1,7 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayalamarceloruben)
 [![GitHub followers](https://img.shields.io/github/followers/ayalamarcelo?style=for-the-badge)](https://github.com/ayalamarcelo?tab=followers)
 [![In Development](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=gitflow&logoColor=white)](https://github.com/ayalamarcelo)
-![Profile Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fayalamarcelo&label=PROFILE%20VIEWS&countColor=%230077b5&style=for-the-badge)
 
 ```bash
 #!/bin/bash
