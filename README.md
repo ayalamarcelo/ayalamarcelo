@@ -16,8 +16,8 @@ Skills:
   🗃️ Databases: PostgreSQL, SQL Server, MySQL, MongoDB
   🏗️ Architecture/Patterns: RESTful APIs, Microservices, OOP, Design Patterns
   🛠️ Tools & DevOps: Docker, Git, Bash, Zsh, Fish, PowerShell
-  🎨 Complementary Frontend: React.js, Vue.js, Ionic, HTML5/CSS3
-  📚 Learning/Upcoming: Python, Go, Advanced Cloud Architectures (AWS/Azure)
+  🎨 Complementary Frontend: React.js, Ionic, HTML5/CSS3
+  📚 Learning/Upcoming: Python, Go, Cloud Architectures (AWS)
 
 Education: 🎓 IFTS N° 11
 
