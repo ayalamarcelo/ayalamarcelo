@@ -11,13 +11,13 @@ echo "My core focus is building scalable server-side systems, robust APIs, and e
 ```bash
 cat << EOT
 Skills:
-  📦 Backend & Core: Java (Spring Boot), C# (.NET), Node.js (TypeScript, Express.js)
+  📦 Backend: Spring Boot), .NET, Node.js (Express.js)
   💻 Languages: Java, C#, JavaScript, TypeScript, Python
-  🗃️ Databases: PostgreSQL, SQL Server, MySQL, MongoDB
-  🏗️ Architecture/Patterns: RESTful APIs, Microservices, OOP, Design Patterns
-  🛠️ Tools & DevOps: Docker, Git, Bash, Zsh, Fish, PowerShell
-  🎨 Complementary Frontend: React.js, Ionic, HTML5/CSS3
-  📚 Learning/Upcoming: Python, Go, Cloud Architectures (AWS)
+  🗃️ Databases: PostgreSQL, MySQL, MongoDB
+  🏗️ Architecture/Patterns: RESTful APIs, Microservices, OOP
+  🛠️ Tools & DevOps: Docker, Git, Bash, PowerShell
+  🎨 Complementary Frontend: React.js, Angular.js, Ionic, HTML5/CSS3
+  📚 Learning/Upcoming: Go, Cloud Architectures (AWS)
 
 Education: 🎓 IFTS N° 11
 
