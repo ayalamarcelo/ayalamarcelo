@@ -11,8 +11,8 @@ echo "My core focus is building scalable server-side systems, robust APIs, and e
 ```bash
 cat << EOT
 Skills:
-  📦 Backend: .NET, Node.js (Express.js)
-  💻 Languages: C#, JavaScript, TypeScript
+  📦 Backend: Node.js (Express.js), Spring Boot, .NET
+  💻 Languages: JavaScript, TypeScript, Java, C#
   🗃️ Databases: PostgreSQL
   🏗️ Architecture/Patterns: RESTful APIs, Microservices, OOP
   🛠️ Tools & DevOps: Docker, Git, Linux/Bash, PowerShell
