@@ -5,21 +5,21 @@
 ```bash
 #!/bin/bash
 echo "Hello, there!"
-echo "I'm Marcelo, a software developer with fullstack training, specialized in backend engineering."
+echo "I'm Marcelo, a Backend Developer."
 echo "My core focus is building scalable server-side systems, robust APIs, and efficient database architectures. ⚡️"
 ```
 ```bash
 cat << EOT
 Skills:
-  📦 Backend: Spring Boot), .NET, Node.js (Express.js)
-  💻 Languages: Java, C#, JavaScript, TypeScript, Python
-  🗃️ Databases: PostgreSQL, MySQL, MongoDB
+  📦 Backend: .NET, Node.js (Express.js)
+  💻 Languages: C#, JavaScript, TypeScript
+  🗃️ Databases: PostgreSQL
   🏗️ Architecture/Patterns: RESTful APIs, Microservices, OOP
-  🛠️ Tools & DevOps: Docker, Git, Bash, PowerShell
-  🎨 Complementary Frontend: React.js, Angular.js, Ionic, HTML5/CSS3
-  📚 Learning/Upcoming: Go, Cloud Architectures (AWS)
+  🛠️ Tools & DevOps: Docker, Git, Linux/Bash, PowerShell
+  🎨 Complementary Frontend: Angular.js, HTML5/CSS3
+  📚 Learning/Upcoming: Go, Cloud Architecture (AWS)
 
-Education: 🎓 IFTS N° 11
+Education: 🎓 Associate Degree in Software Development — IFTS N° 11 (Final Year)
 
 EOT
 
